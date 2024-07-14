@@ -30,6 +30,6 @@ Feel free to connect with me! I'm always open to collaboration and discussions r
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/Maheshchavan_01?t=fuP-eyiBRYHjmgNkd7gRsg&s=09)
 ## License
 
-This repository and its contents are licensed under the [MIT License](LICENSE).
+
 
 Thank you for visiting my GitHub profile! 🚀
