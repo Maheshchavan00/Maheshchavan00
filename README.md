@@ -28,7 +28,7 @@ Feel free to connect with me! I'm always open to collaboration and discussions r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/mahesh-chavan-987546266)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/Maheshchavan_01?t=fuP-eyiBRYHjmgNkd7gRsg&s=09)
-## License
+
 
 
 
