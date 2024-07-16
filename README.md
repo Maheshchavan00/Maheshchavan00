@@ -1,35 +1,37 @@
-# Welcome to My Github profile ! 👋
 
-![Banner Image](https://camo.githubusercontent.com/84dd57d843b72ab017cc3345b7ad89c3c42a4a3cb8e13595dc4184affd21ca64/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67) <!-- Replace with the URL to your banner image -->
+<h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
+<h3 align="center">A passionate Data science engineering student</h3>
 
-Hello, I'm Mahesh chavan, a passionate data science engineering student with skills in Python, C, CSS, HTML, Django, and MySQL. This is my GitHub profile, where I showcase my projects and contributions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshchavan00&label=Profile%20views&color=0e75b6&style=flat" alt="maheshchavan00" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshchavan00" alt="maheshchavan00" /></a> </p>
 
-- 🎓 I am currently pursuing a degree in Data Science Engineering.@Alvas institute of engineering and technology Dakshina kannada 
-- 💻 My main programming languages include Python, C, and web development technologies like HTML, CSS, and Django.
-- 📊 I am enthusiastic about data science and enjoy working on projects that involve data analysis, machine learning, and visualization.
+<p align="left"> <a href="https://twitter.com/maheshchavan_01" target="blank"><img src="https://img.shields.io/twitter/follow/maheshchavan_01?logo=twitter&style=for-the-badge" alt="maheshchavan_01" /></a> </p>
 
-## Skills
+- 🔭 I’m currently studying Computer science (Data science)) **machine learning,data wranglig etc**
 
-- **Programming Languages:** Python, C
-- **Web Development:** HTML, CSS, Django
-- **Database:** MySQL
-- **Data Science:** Data Analysis, Machine Learning
+- 🌱 I’m currently learning **machine learning,data wrangling**
 
+- 👨‍💻 My portfolio is available at [https://maheshchavancseds.wixsite.com/maheshbloggs-1](https://maheshchavancseds.wixsite.com/maheshbloggs-1)
 
+- 💬 Ask me about **python automation libraries**
 
-![Data Science](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/65234datascience-pdusit-stock.jpg) <!-- Replace with the URL to an attractive data science image -->
-![Coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlkGylfANpVqSkE0I93e6tJVh9PdEh0tkvcrhKsWVS_ssCLzK3VmRuEFkvCMVB448loRU&usqp=CAU) <!-- Replace with the URL to an attractive coding/programming image -->
+- 📫 How to reach me **maheshchavan.dse@gmail.com**
 
-## Connect with Me
+- ⚡ Fun fact **i am funny lets laugh together**
 
-Feel free to connect with me! I'm always open to collaboration and discussions related to data science, programming, and technology.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maheshchavan_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maheshchavan_01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahesh chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh chavan" height="30" width="40" /></a>
+<a href="https://fb.com/mahesh chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahesh chavan" height="30" width="40" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/mahesh-chavan-987546266)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/Maheshchavan_01?t=fuP-eyiBRYHjmgNkd7gRsg&s=09)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshchavan00&show_icons=true&locale=en&layout=compact" alt="maheshchavan00" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshchavan00&show_icons=true&locale=en" alt="maheshchavan00" /></p>
 
-
-Thank you for visiting my GitHub profile! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshchavan00&" alt="maheshchavan00" /></p>
